@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/FBReactNativeSpec/Three/wcfm-vendor-app-master-2.0.0/node_modules/react-native/React/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h
+../../../../../../node_modules/react-native/React/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h

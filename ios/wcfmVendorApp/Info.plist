@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>User selects there location for ordering items</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>AntDesign.ttf</string>
